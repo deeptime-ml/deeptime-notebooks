@@ -7,3 +7,4 @@ Notebooks containing some longer example systems.
     :name: gallery
 
     /notebooks/examples/ala2-example
+    /notebooks/examples/msm-prinz
