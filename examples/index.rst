@@ -9,3 +9,4 @@ Notebooks containing some longer example systems.
     /notebooks/examples/ala2-example
     /notebooks/examples/msm-prinz
     /notebooks/examples/sqrt-model-dimrx
+    /notebooks/examples/coherence-bickley-jet
